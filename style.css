@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color:#EAE3D2;
+    height: 150px;
+    margin-top: 10px;
+    
+}
+#cardDiv {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 20px;
+margin-top: 5px;
+text-align: center;
+background-color: rgb(203, 219, 233);
+}
+#cardDiv > div{
+    background-color: #e5d09d;
+    margin: 20px;
+}
+img{
+    border-radius: 20%;
+    margin: 20px;
+}
